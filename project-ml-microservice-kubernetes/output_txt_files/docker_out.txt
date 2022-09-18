@@ -1,0 +1,6 @@
+<paste log output from Docker prediction, here>
+[2022-09-18 05:17:02,114] INFO in app: Prediction Output: 
+[20.35373177]
+[2022-09-18 05:17:02,115] INFO in app: Prediction Output: 
+[20.35373177]
+172.17.0.1 - - [18/Sep/2022 05:17:02] "POST /predict HTTP/1.1" 500 -git 
