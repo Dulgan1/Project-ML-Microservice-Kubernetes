@@ -1,1 +1,7 @@
 <paste log output from Kubernetes-mediated prediction, here>
+Error from server (AlreadyExists): pods "mlapp" already exists
+NAME      READY   STATUS    RESTARTS   AGE
+mlapp   1/1     Running   0          7m23s
+Forwarding from 172.17.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
