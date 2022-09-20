@@ -1,4 +1,12 @@
 # Project-ML-Microservice-Kubernetes
+# Template:
+[![<ORG_NAME>](https://circleci.com/github/Dulgan1/Project-ML-Microservice-Kubernetes.svg?style=svg)](<LINK>)
+
+# Example:
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+
+# Example for specific branch:
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/?branch=teesloane-patch-5)
 
 Enter Project Directory Project-ML-Microservice-Kubernetes
 
