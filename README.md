@@ -1,6 +1,6 @@
 # Project-ML-Microservice-Kubernetes
 # Template:
-[![<ORG_NAME>](https://circleci.com/github/Dulgan1/Project-ML-Microservice-Kubernetes.svg?style=svg)](<LINK>)
+[![Dulgan1](https://circleci.com/github/Dulgan1/Project-ML-Microservice-Kubernetes.svg?style=svg)](<link>)
 
 # Example:
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
